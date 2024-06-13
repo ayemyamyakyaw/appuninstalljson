@@ -4,8 +4,8 @@
     "packageName": "org.outline.android.client"
   },
   {
-    "name": "Instagram",
-    "packageName": "com.instagram.android"
+    "name": "Telegram",
+    "packageName": "org.telegram.messenger"
   },
   {
     "name": "WhatsApp",
