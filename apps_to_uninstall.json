@@ -1,7 +1,7 @@
 {
   "packageNames": [
     "org.outline.android.client",
-    "com.lazypandastudio.deviceid",
-    "com.example.app3"
+    "org.outline.android.client",
+    "org.outline.android.client"
   ]
 }
