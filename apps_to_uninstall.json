@@ -1,7 +1,22 @@
-{
-  "packageNames": [
-    "org.outline.android.client",
-    "org.outline.android.client",
-    "org.outline.android.client"
-  ]
-}
+[
+  {
+    "name": "Outline",
+    "packageName": "org.outline.android.client"
+  },
+  {
+    "name": "Instagram",
+    "packageName": "com.instagram.android"
+  },
+  {
+    "name": "WhatsApp",
+    "packageName": "com.whatsapp"
+  },
+  {
+    "name": "Twitter",
+    "packageName": "com.twitter.android"
+  },
+  {
+    "name": "Snapchat",
+    "packageName": "com.snapchat.android"
+  }
+]
