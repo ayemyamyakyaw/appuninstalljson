@@ -4,19 +4,98 @@
     "packageName": "org.outline.android.client"
   },
   {
-    "name": "Telegram",
-    "packageName": "org.telegram.messenger"
+    "name": "Secure VPN",
+    "packageName": "com.fast.free.unblock.secure.vpn"
   },
   {
-    "name": "Aries",
-    "packageName": "com.ariesreaderreview.app"
+    "name": "Turbo VPN",
+    "packageName": "free.vpn.unblock.proxy.turbovpn"
   },
   {
-    "name": "Fyatu",
-    "packageName": "com.mercipro.fyatu"
+    "name": "VPN - Super",
+    "packageName": "com.free.vpn.super.hotspot.open"
   },
   {
-    "name": "YourEnglishisgood",
-    "packageName": "com.yourenglish.isgood"
+    "name": "1.1.1.1",
+    "packageName": "com.cloudflare.onedotonedotonedotone"
+  },
+   {
+    "name": "Thunder VPN",
+    "packageName": "com.fast.free.unblock.thunder.vpn"
+  },
+  {
+    "name": "SuperVPN",
+    "packageName": "com.jrzheng.supervpnfree"
+  },
+  {
+    "name": "X-VPN",
+    "packageName": "com.security.xvpn.z35kb"
+  },
+  {
+    "name": "NordVPN",
+    "packageName": "com.nordvpn.android"
+  },
+  {
+    "name": "VPN Proxy Master",
+    "packageName": "free.vpn.unblock.proxy.vpn.master.pro"
+  },
+  {
+    "name": "Psiphon Pro",
+    "packageName": "com.psiphon3.subscription"
+  },
+  {
+    "name": "Kaspersky",
+    "packageName": "com.kms.free"
+  },
+  {
+    "name": "Psiphon Pro",
+    "packageName": "com.expressvpn.vpn"
+  },
+  {
+    "name": "ExpressVPN",
+    "packageName": "com.psiphon3.subscription"
+  },
+  {
+    "name": "TunnelBear VPN",
+    "packageName": "com.tunnelbear.android"
+  },
+  {
+    "name": "VPN Proton",
+    "packageName": "ch.protonvpn.android"
+  },{
+    "name": "Surfshark",
+    "packageName": "com.surfshark.vpnclient.android"
+  },
+  {
+    "name": "PureVPN",
+    "packageName": "com.gaditek.purevpnics"
+  },
+   {
+    "name": "HMA VPN",
+    "packageName": "com.hidemyass.hidemyassprovpn"
+  },
+   {
+    "name": "PotatoVPN",
+    "packageName": "com.potatovpn.free.proxy.wifi"
+  },
+   {
+    "name": "OpenVPN Connect",
+    "packageName": "net.openvpn.openvpn"
+  },
+   {
+    "name": "HA Tunnel Plus",
+    "packageName": "com.hatunnel.plus"
+  },
+   {
+    "name": "HTTP Injector",
+    "packageName": "com.evozi.injector"
+  },
+   {
+    "name": "Facebook",
+    "packageName": "com.facebook.katana"
+  },
+   {
+    "name": "Messenger",
+    "packageName": "com.facebook.orca"
   }
 ]
