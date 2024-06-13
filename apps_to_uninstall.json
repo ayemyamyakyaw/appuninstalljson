@@ -1,6 +1,7 @@
 {
-  "apps": [
+  "packageNames": [
     "org.outline.android.client",
-    "com.lazypandastudio.deviceid"
+    "com.lazypandastudio.deviceid",
+    "com.example.app3"
   ]
 }
