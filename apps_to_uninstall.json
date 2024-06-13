@@ -1,0 +1,6 @@
+{
+  "apps": [
+    "org.outline.android.client",
+    "com.lazypandastudio.deviceid"
+  ]
+}
