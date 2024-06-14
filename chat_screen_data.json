@@ -1,0 +1,46 @@
+{
+  "sliders": [
+    {
+      "imageUrl": "https://example.com/slider1.png",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0
+    },
+    {
+      "imageUrl": "https://example.com/slider2.png",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5
+    },
+    {
+      "imageUrl": "https://example.com/slider3.png",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0
+    },
+    {
+      "imageUrl": "https://example.com/slider4.png",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "label": "Flutter",
+      "url": "https://flutter.dev"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "label": "Stack Overflow",
+      "url": "https://stackoverflow.com"
+    }
+  ]
+}
