@@ -6,13 +6,37 @@
     "https://raw.githubusercontent.com/ayemyamyakyaw/vpnjson/main/slider/1.png"
   ],
   "buttons": [
-    "Google",
-    "Facebook",
-    "Twitter",
-    "LinkedIn",
-    "Instagram",
-    "YouTube",
-    "Reddit",
-    "Pinterest"
+    {
+      "name": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://www.twitter.com"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com"
+    }
   ]
 }
